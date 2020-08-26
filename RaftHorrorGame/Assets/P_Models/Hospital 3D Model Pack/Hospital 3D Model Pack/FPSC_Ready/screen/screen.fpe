@@ -1,0 +1,41 @@
+;header
+desc          = bed_screen
+
+;ai
+aiinit         = appear1.fpi
+aimain         = 
+aidestroy      = disappear1.fpi
+
+;spawn
+spawnmax      = 0
+spawndelay    = 0
+spawnqty      = 0
+
+;orientation
+
+model         = screen.x
+offx          = 0
+offy          = 0
+offz          = 0
+rotx          = 0
+roty          = 0
+rotz          = 0
+scale         = 100
+fixnewy       = 0
+defaultstatic = 1
+materialindex = 6
+collisionmode = 0
+strength      = 0
+isimmobile    = 1
+soundset      = 
+soundset1     = 
+
+;visualinfo
+
+textured      = screen.tga
+effect        = 
+castshadow    = 0
+
+;Animationinfo
+animmax       = 0
+anim0         = 0,0

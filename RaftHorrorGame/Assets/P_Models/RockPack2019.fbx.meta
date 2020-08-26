@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: ee48c0765e1a6dc44b834054c31611df
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: rock.006
+    100002: rock.007
+    100004: rock.008
+    100006: rock.009
+    100008: rock.010
+    100010: rock.011
+    100012: rock.012
+    100014: rock.013
+    100016: rock.014
+    100018: rock.015
+    100020: rock.016
+    100022: rock.017
+    100024: rock.018
+    100026: rock.019
+    100028: rock.020
+    100030: rock.021
+    100032: rock.022
+    100034: rock.023
+    100036: rock.024
+    100038: rock.025
+    100040: //RootNode
+    400000: rock.006
+    400002: rock.007
+    400004: rock.008
+    400006: rock.009
+    400008: rock.010
+    400010: rock.011
+    400012: rock.012
+    400014: rock.013
+    400016: rock.014
+    400018: rock.015
+    400020: rock.016
+    400022: rock.017
+    400024: rock.018
+    400026: rock.019
+    400028: rock.020
+    400030: rock.021
+    400032: rock.022
+    400034: rock.023
+    400036: rock.024
+    400038: rock.025
+    400040: //RootNode
+    2100000: No Name
+    2100002: Material
+    2300000: rock.006
+    2300002: rock.007
+    2300004: rock.008
+    2300006: rock.009
+    2300008: rock.010
+    2300010: rock.011
+    2300012: rock.012
+    2300014: rock.013
+    2300016: rock.014
+    2300018: rock.015
+    2300020: rock.016
+    2300022: rock.017
+    2300024: rock.018
+    2300026: rock.019
+    2300028: rock.020
+    2300030: rock.021
+    2300032: rock.022
+    2300034: rock.023
+    2300036: rock.024
+    2300038: rock.025
+    3300000: rock.006
+    3300002: rock.007
+    3300004: rock.008
+    3300006: rock.009
+    3300008: rock.010
+    3300010: rock.011
+    3300012: rock.012
+    3300014: rock.013
+    3300016: rock.014
+    3300018: rock.015
+    3300020: rock.016
+    3300022: rock.017
+    3300024: rock.018
+    3300026: rock.019
+    3300028: rock.020
+    3300030: rock.021
+    3300032: rock.022
+    3300034: rock.023
+    3300036: rock.024
+    3300038: rock.025
+    4300000: rock.025
+    4300002: rock.024
+    4300004: rock.023
+    4300006: rock.022
+    4300008: rock.021
+    4300010: rock.020
+    4300012: rock.019
+    4300014: rock.018
+    4300016: rock.017
+    4300018: rock.016
+    4300020: rock.015
+    4300022: rock.014
+    4300024: rock.013
+    4300026: rock.012
+    4300028: rock.011
+    4300030: rock.010
+    4300032: rock.009
+    4300034: rock.008
+    4300036: rock.007
+    4300038: rock.006
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 1
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

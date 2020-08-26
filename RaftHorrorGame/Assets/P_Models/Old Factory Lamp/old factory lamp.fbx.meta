@@ -1,0 +1,473 @@
+fileFormatVersion: 2
+guid: 733aa146cf9384c4290c566f7efb1ee5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Kamera
+    100002: Kamera.1
+    100004: Krzywa
+    100006: Krzywa.1
+    100008: Krzywa.2
+    100010: Krzywa.3
+    100012: Krzywa.4
+    100014: Krzywa.5
+    100016: Krzywa.7
+    100018: Krzywa.7.2
+    100020: Lathe NURBS
+    100022: Lathe NURBS.1
+    100024: Lathe NURBS.2
+    100026: Lathe NURBS.3
+    100028: Lathe NURBS.4
+    100030: Lathe NURBS.5
+    100032: "Okr\u0105g"
+    100034: "Okr\u0105g.2"
+    100036: //RootNode
+    100038: Rura
+    100040: Sweep NURBS
+    100042: Sweep NURBS.1
+    100044: "Sze\u015Bcian"
+    100046: Torus
+    100048: Walec
+    100050: "Zako\u0144czenie 2"
+    100052: "Zako\u0144czenie 2.10"
+    100054: "Zako\u0144czenie 2.11"
+    100056: "Zako\u0144czenie 2.12"
+    100058: "Zako\u0144czenie 2.13"
+    100060: "Zako\u0144czenie 2.14"
+    100062: "Zako\u0144czenie 2.15"
+    100064: "Zako\u0144czenie 2.16"
+    100066: "Zako\u0144czenie 2.17"
+    100068: "Zako\u0144czenie 2.18"
+    100070: "Zako\u0144czenie 2.19"
+    100072: "Zako\u0144czenie 2.2"
+    100074: "Zako\u0144czenie 2.20"
+    100076: "Zako\u0144czenie 2.21"
+    100078: "Zako\u0144czenie 2.22"
+    100080: "Zako\u0144czenie 2.23"
+    100082: "Zako\u0144czenie 2.24"
+    100084: "Zako\u0144czenie 2.25"
+    100086: "Zako\u0144czenie 2.26"
+    100088: "Zako\u0144czenie 2.27"
+    100090: "Zako\u0144czenie 2.28"
+    100092: "Zako\u0144czenie 2.3"
+    100094: "Zako\u0144czenie 2.4"
+    100096: "Zako\u0144czenie 2.5"
+    100098: "Zako\u0144czenie 2.6"
+    100100: "Zako\u0144czenie 2.7"
+    100102: "Zako\u0144czenie 2.8"
+    100104: "Zako\u0144czenie 2.9"
+    100106: "Zaokr\u0105glenie"
+    100108: "Zaokr\u0105glenie.10"
+    100110: "Zaokr\u0105glenie.11"
+    100112: "Zaokr\u0105glenie.12"
+    100114: "Zaokr\u0105glenie.13"
+    100116: "Zaokr\u0105glenie.14"
+    100118: "Zaokr\u0105glenie.15"
+    100120: "Zaokr\u0105glenie.16"
+    100122: "Zaokr\u0105glenie.17"
+    100124: "Zaokr\u0105glenie.18"
+    100126: "Zaokr\u0105glenie.19"
+    100128: "Zaokr\u0105glenie.2"
+    100130: "Zaokr\u0105glenie.20"
+    100132: "Zaokr\u0105glenie.21"
+    100134: "Zaokr\u0105glenie.22"
+    100136: "Zaokr\u0105glenie.23"
+    100138: "Zaokr\u0105glenie.24"
+    100140: "Zaokr\u0105glenie.25"
+    100142: "Zaokr\u0105glenie.26"
+    100144: "Zaokr\u0105glenie.27"
+    100146: "Zaokr\u0105glenie.28"
+    100148: "Zaokr\u0105glenie.3"
+    100150: "Zaokr\u0105glenie.4"
+    100152: "Zaokr\u0105glenie.5"
+    100154: "Zaokr\u0105glenie.6"
+    100156: "Zaokr\u0105glenie.7"
+    100158: "Zaokr\u0105glenie.8"
+    100160: "Zaokr\u0105glenie.9"
+    100162: "\u015Awiat\u0142o"
+    100164: "\u015Awiat\u0142o.1"
+    100166: "\u015Awiat\u0142o.2"
+    100168: "\u015Awiat\u0142o.3"
+    400000: Kamera
+    400002: Kamera.1
+    400004: Krzywa
+    400006: Krzywa.1
+    400008: Krzywa.2
+    400010: Krzywa.3
+    400012: Krzywa.4
+    400014: Krzywa.5
+    400016: Krzywa.7
+    400018: Krzywa.7.2
+    400020: Lathe NURBS
+    400022: Lathe NURBS.1
+    400024: Lathe NURBS.2
+    400026: Lathe NURBS.3
+    400028: Lathe NURBS.4
+    400030: Lathe NURBS.5
+    400032: "Okr\u0105g"
+    400034: "Okr\u0105g.2"
+    400036: //RootNode
+    400038: Rura
+    400040: Sweep NURBS
+    400042: Sweep NURBS.1
+    400044: "Sze\u015Bcian"
+    400046: Torus
+    400048: Walec
+    400050: "Zako\u0144czenie 2"
+    400052: "Zako\u0144czenie 2.10"
+    400054: "Zako\u0144czenie 2.11"
+    400056: "Zako\u0144czenie 2.12"
+    400058: "Zako\u0144czenie 2.13"
+    400060: "Zako\u0144czenie 2.14"
+    400062: "Zako\u0144czenie 2.15"
+    400064: "Zako\u0144czenie 2.16"
+    400066: "Zako\u0144czenie 2.17"
+    400068: "Zako\u0144czenie 2.18"
+    400070: "Zako\u0144czenie 2.19"
+    400072: "Zako\u0144czenie 2.2"
+    400074: "Zako\u0144czenie 2.20"
+    400076: "Zako\u0144czenie 2.21"
+    400078: "Zako\u0144czenie 2.22"
+    400080: "Zako\u0144czenie 2.23"
+    400082: "Zako\u0144czenie 2.24"
+    400084: "Zako\u0144czenie 2.25"
+    400086: "Zako\u0144czenie 2.26"
+    400088: "Zako\u0144czenie 2.27"
+    400090: "Zako\u0144czenie 2.28"
+    400092: "Zako\u0144czenie 2.3"
+    400094: "Zako\u0144czenie 2.4"
+    400096: "Zako\u0144czenie 2.5"
+    400098: "Zako\u0144czenie 2.6"
+    400100: "Zako\u0144czenie 2.7"
+    400102: "Zako\u0144czenie 2.8"
+    400104: "Zako\u0144czenie 2.9"
+    400106: "Zaokr\u0105glenie"
+    400108: "Zaokr\u0105glenie.10"
+    400110: "Zaokr\u0105glenie.11"
+    400112: "Zaokr\u0105glenie.12"
+    400114: "Zaokr\u0105glenie.13"
+    400116: "Zaokr\u0105glenie.14"
+    400118: "Zaokr\u0105glenie.15"
+    400120: "Zaokr\u0105glenie.16"
+    400122: "Zaokr\u0105glenie.17"
+    400124: "Zaokr\u0105glenie.18"
+    400126: "Zaokr\u0105glenie.19"
+    400128: "Zaokr\u0105glenie.2"
+    400130: "Zaokr\u0105glenie.20"
+    400132: "Zaokr\u0105glenie.21"
+    400134: "Zaokr\u0105glenie.22"
+    400136: "Zaokr\u0105glenie.23"
+    400138: "Zaokr\u0105glenie.24"
+    400140: "Zaokr\u0105glenie.25"
+    400142: "Zaokr\u0105glenie.26"
+    400144: "Zaokr\u0105glenie.27"
+    400146: "Zaokr\u0105glenie.28"
+    400148: "Zaokr\u0105glenie.3"
+    400150: "Zaokr\u0105glenie.4"
+    400152: "Zaokr\u0105glenie.5"
+    400154: "Zaokr\u0105glenie.6"
+    400156: "Zaokr\u0105glenie.7"
+    400158: "Zaokr\u0105glenie.8"
+    400160: "Zaokr\u0105glenie.9"
+    400162: "\u015Awiat\u0142o"
+    400164: "\u015Awiat\u0142o.1"
+    400166: "\u015Awiat\u0142o.2"
+    400168: "\u015Awiat\u0142o.3"
+    2000000: Kamera
+    2000002: Kamera.1
+    2100000: Mat.4
+    2100002: Mat.1
+    2100004: Mat.2
+    2100006: No Name
+    2100008: Mat.3
+    2100010: Mat.0
+    2300000: Lathe NURBS
+    2300002: Lathe NURBS.1
+    2300004: Lathe NURBS.2
+    2300006: Lathe NURBS.3
+    2300008: Lathe NURBS.4
+    2300010: Lathe NURBS.5
+    2300012: Rura
+    2300014: Sweep NURBS
+    2300016: Sweep NURBS.1
+    2300018: "Sze\u015Bcian"
+    2300020: Torus
+    2300022: Walec
+    2300024: "Zako\u0144czenie 2"
+    2300026: "Zako\u0144czenie 2.10"
+    2300028: "Zako\u0144czenie 2.11"
+    2300030: "Zako\u0144czenie 2.12"
+    2300032: "Zako\u0144czenie 2.13"
+    2300034: "Zako\u0144czenie 2.14"
+    2300036: "Zako\u0144czenie 2.15"
+    2300038: "Zako\u0144czenie 2.16"
+    2300040: "Zako\u0144czenie 2.17"
+    2300042: "Zako\u0144czenie 2.18"
+    2300044: "Zako\u0144czenie 2.19"
+    2300046: "Zako\u0144czenie 2.2"
+    2300048: "Zako\u0144czenie 2.20"
+    2300050: "Zako\u0144czenie 2.21"
+    2300052: "Zako\u0144czenie 2.22"
+    2300054: "Zako\u0144czenie 2.23"
+    2300056: "Zako\u0144czenie 2.24"
+    2300058: "Zako\u0144czenie 2.25"
+    2300060: "Zako\u0144czenie 2.26"
+    2300062: "Zako\u0144czenie 2.27"
+    2300064: "Zako\u0144czenie 2.28"
+    2300066: "Zako\u0144czenie 2.3"
+    2300068: "Zako\u0144czenie 2.4"
+    2300070: "Zako\u0144czenie 2.5"
+    2300072: "Zako\u0144czenie 2.6"
+    2300074: "Zako\u0144czenie 2.7"
+    2300076: "Zako\u0144czenie 2.8"
+    2300078: "Zako\u0144czenie 2.9"
+    2300080: "Zaokr\u0105glenie"
+    2300082: "Zaokr\u0105glenie.10"
+    2300084: "Zaokr\u0105glenie.11"
+    2300086: "Zaokr\u0105glenie.12"
+    2300088: "Zaokr\u0105glenie.13"
+    2300090: "Zaokr\u0105glenie.14"
+    2300092: "Zaokr\u0105glenie.15"
+    2300094: "Zaokr\u0105glenie.16"
+    2300096: "Zaokr\u0105glenie.17"
+    2300098: "Zaokr\u0105glenie.18"
+    2300100: "Zaokr\u0105glenie.19"
+    2300102: "Zaokr\u0105glenie.2"
+    2300104: "Zaokr\u0105glenie.20"
+    2300106: "Zaokr\u0105glenie.21"
+    2300108: "Zaokr\u0105glenie.22"
+    2300110: "Zaokr\u0105glenie.23"
+    2300112: "Zaokr\u0105glenie.24"
+    2300114: "Zaokr\u0105glenie.25"
+    2300116: "Zaokr\u0105glenie.26"
+    2300118: "Zaokr\u0105glenie.27"
+    2300120: "Zaokr\u0105glenie.28"
+    2300122: "Zaokr\u0105glenie.3"
+    2300124: "Zaokr\u0105glenie.4"
+    2300126: "Zaokr\u0105glenie.5"
+    2300128: "Zaokr\u0105glenie.6"
+    2300130: "Zaokr\u0105glenie.7"
+    2300132: "Zaokr\u0105glenie.8"
+    2300134: "Zaokr\u0105glenie.9"
+    3300000: Lathe NURBS
+    3300002: Lathe NURBS.1
+    3300004: Lathe NURBS.2
+    3300006: Lathe NURBS.3
+    3300008: Lathe NURBS.4
+    3300010: Lathe NURBS.5
+    3300012: Rura
+    3300014: Sweep NURBS
+    3300016: Sweep NURBS.1
+    3300018: "Sze\u015Bcian"
+    3300020: Torus
+    3300022: Walec
+    3300024: "Zako\u0144czenie 2"
+    3300026: "Zako\u0144czenie 2.10"
+    3300028: "Zako\u0144czenie 2.11"
+    3300030: "Zako\u0144czenie 2.12"
+    3300032: "Zako\u0144czenie 2.13"
+    3300034: "Zako\u0144czenie 2.14"
+    3300036: "Zako\u0144czenie 2.15"
+    3300038: "Zako\u0144czenie 2.16"
+    3300040: "Zako\u0144czenie 2.17"
+    3300042: "Zako\u0144czenie 2.18"
+    3300044: "Zako\u0144czenie 2.19"
+    3300046: "Zako\u0144czenie 2.2"
+    3300048: "Zako\u0144czenie 2.20"
+    3300050: "Zako\u0144czenie 2.21"
+    3300052: "Zako\u0144czenie 2.22"
+    3300054: "Zako\u0144czenie 2.23"
+    3300056: "Zako\u0144czenie 2.24"
+    3300058: "Zako\u0144czenie 2.25"
+    3300060: "Zako\u0144czenie 2.26"
+    3300062: "Zako\u0144czenie 2.27"
+    3300064: "Zako\u0144czenie 2.28"
+    3300066: "Zako\u0144czenie 2.3"
+    3300068: "Zako\u0144czenie 2.4"
+    3300070: "Zako\u0144czenie 2.5"
+    3300072: "Zako\u0144czenie 2.6"
+    3300074: "Zako\u0144czenie 2.7"
+    3300076: "Zako\u0144czenie 2.8"
+    3300078: "Zako\u0144czenie 2.9"
+    3300080: "Zaokr\u0105glenie"
+    3300082: "Zaokr\u0105glenie.10"
+    3300084: "Zaokr\u0105glenie.11"
+    3300086: "Zaokr\u0105glenie.12"
+    3300088: "Zaokr\u0105glenie.13"
+    3300090: "Zaokr\u0105glenie.14"
+    3300092: "Zaokr\u0105glenie.15"
+    3300094: "Zaokr\u0105glenie.16"
+    3300096: "Zaokr\u0105glenie.17"
+    3300098: "Zaokr\u0105glenie.18"
+    3300100: "Zaokr\u0105glenie.19"
+    3300102: "Zaokr\u0105glenie.2"
+    3300104: "Zaokr\u0105glenie.20"
+    3300106: "Zaokr\u0105glenie.21"
+    3300108: "Zaokr\u0105glenie.22"
+    3300110: "Zaokr\u0105glenie.23"
+    3300112: "Zaokr\u0105glenie.24"
+    3300114: "Zaokr\u0105glenie.25"
+    3300116: "Zaokr\u0105glenie.26"
+    3300118: "Zaokr\u0105glenie.27"
+    3300120: "Zaokr\u0105glenie.28"
+    3300122: "Zaokr\u0105glenie.3"
+    3300124: "Zaokr\u0105glenie.4"
+    3300126: "Zaokr\u0105glenie.5"
+    3300128: "Zaokr\u0105glenie.6"
+    3300130: "Zaokr\u0105glenie.7"
+    3300132: "Zaokr\u0105glenie.8"
+    3300134: "Zaokr\u0105glenie.9"
+    4300000: "Sze\u015Bcian"
+    4300002: Lathe NURBS.5
+    4300004: Torus
+    4300006: Sweep NURBS.1
+    4300008: "Zaokr\u0105glenie"
+    4300010: "Zako\u0144czenie 2"
+    4300012: "Zaokr\u0105glenie.2"
+    4300014: "Zako\u0144czenie 2.2"
+    4300016: "Zaokr\u0105glenie.3"
+    4300018: "Zako\u0144czenie 2.3"
+    4300020: "Zaokr\u0105glenie.4"
+    4300022: "Zako\u0144czenie 2.4"
+    4300024: "Zaokr\u0105glenie.5"
+    4300026: "Zako\u0144czenie 2.5"
+    4300028: "Zaokr\u0105glenie.6"
+    4300030: "Zako\u0144czenie 2.6"
+    4300032: "Zaokr\u0105glenie.7"
+    4300034: "Zako\u0144czenie 2.7"
+    4300036: "Zaokr\u0105glenie.8"
+    4300038: "Zako\u0144czenie 2.8"
+    4300040: "Zaokr\u0105glenie.9"
+    4300042: "Zako\u0144czenie 2.9"
+    4300044: "Zaokr\u0105glenie.10"
+    4300046: "Zako\u0144czenie 2.10"
+    4300048: "Zaokr\u0105glenie.11"
+    4300050: "Zako\u0144czenie 2.11"
+    4300052: "Zaokr\u0105glenie.12"
+    4300054: "Zako\u0144czenie 2.12"
+    4300056: "Zaokr\u0105glenie.13"
+    4300058: "Zako\u0144czenie 2.13"
+    4300060: "Zaokr\u0105glenie.14"
+    4300062: "Zako\u0144czenie 2.14"
+    4300064: Sweep NURBS
+    4300066: "Zaokr\u0105glenie.15"
+    4300068: "Zako\u0144czenie 2.15"
+    4300070: "Zaokr\u0105glenie.16"
+    4300072: "Zako\u0144czenie 2.16"
+    4300074: "Zaokr\u0105glenie.17"
+    4300076: "Zako\u0144czenie 2.17"
+    4300078: "Zaokr\u0105glenie.18"
+    4300080: "Zako\u0144czenie 2.18"
+    4300082: "Zaokr\u0105glenie.19"
+    4300084: "Zako\u0144czenie 2.19"
+    4300086: "Zaokr\u0105glenie.20"
+    4300088: "Zako\u0144czenie 2.20"
+    4300090: "Zaokr\u0105glenie.21"
+    4300092: "Zako\u0144czenie 2.21"
+    4300094: "Zaokr\u0105glenie.22"
+    4300096: "Zako\u0144czenie 2.22"
+    4300098: "Zaokr\u0105glenie.23"
+    4300100: "Zako\u0144czenie 2.23"
+    4300102: "Zaokr\u0105glenie.24"
+    4300104: "Zako\u0144czenie 2.24"
+    4300106: "Zaokr\u0105glenie.25"
+    4300108: "Zako\u0144czenie 2.25"
+    4300110: "Zaokr\u0105glenie.26"
+    4300112: "Zako\u0144czenie 2.26"
+    4300114: "Zaokr\u0105glenie.27"
+    4300116: "Zako\u0144czenie 2.27"
+    4300118: "Zaokr\u0105glenie.28"
+    4300120: "Zako\u0144czenie 2.28"
+    4300122: Rura
+    4300124: Lathe NURBS.4
+    4300126: Lathe NURBS.3
+    4300128: Walec
+    4300130: Lathe NURBS.2
+    4300132: Lathe NURBS.1
+    4300134: Lathe NURBS
+    10800000: "\u015Awiat\u0142o"
+    10800002: "\u015Awiat\u0142o.1"
+    10800004: "\u015Awiat\u0142o.2"
+    10800006: "\u015Awiat\u0142o.3"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

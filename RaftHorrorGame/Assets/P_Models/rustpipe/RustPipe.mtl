@@ -1,0 +1,22 @@
+# Blender MTL File: 'R Pipe.blend'
+# Material Count: 2
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\kacpe_000\Desktop\Nowy folder (13)\PostA\Material\Rust Metal.bmp
+
+newmtl Material.001_C_Metal.bmp
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\kacpe_000\Desktop\Nowy folder (13)\PostA\Material\C Metal.bmp
